@@ -1,1 +1,1 @@
-# sureshapp
+# qslick.github.io
